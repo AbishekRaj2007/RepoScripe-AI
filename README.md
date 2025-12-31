@@ -32,21 +32,20 @@ To install RepoScripe-AI, follow these steps:
 
 1.  Clone the repository using the following command:
     ```bash
-git clone https://github.com/AbishekRaj2007/RepoScripe-AI.git
-```
+    git clone https://github.com/AbishekRaj2007/RepoScripe-AI.git
+
 2.  Install the required dependencies using pip:
     ```bash
-pip install -r requirements.txt
-```
+    pip install -r requirements.txt
+
 3.  Configure the script by setting environment variables:
     ```bash
-export AI_API_KEY="YOUR_API_KEY"
-export DATABASE_URL="YOUR_DATABASE_URL"
-```
+    export AI_API_KEY="YOUR_API_KEY"
+    export DATABASE_URL="YOUR_DATABASE_URL"
+
 4.  Run the script using the following command:
     ```bash
-python main.py
-```
+    python main.py
 
 **Usage**
 ---------
@@ -55,20 +54,20 @@ To use RepoScripe-AI, follow these steps:
 
 1.  Create a new project by running the following command:
     ```bash
-python create_project.py
-```
+    python create_project.py
+    
 2.  Organize your code files using the AI-powered code organization feature:
     ```bash
-python organize_code.py
-```
+    python organize_code.py
+
 3.  Track issues and feature requests using the AI-driven issue tracking feature:
     ```bash
-python track_issues.py
-```
+    python track_issues.py
+
 4.  Plan your project using the AI-powered project planning feature:
     ```bash
-python plan_project.py
-```
+    python plan_project.py
+
 
 **Folder Structure**
 -------------------
